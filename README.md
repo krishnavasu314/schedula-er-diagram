@@ -192,4 +192,4 @@ https://www.loom.com/share/8d486bbd9eb74d1d9c33658f9de2e7c1
 
 ## 📌 Conclusion
 
-This ER design closely reflects real-world healthcare workflows while ensuring scalability, modularity, and maintainability. It provides a strong foundation for building a production-ready healthcare system
+This ER design closely reflects real-world healthcare workflows while ensuring scalability, modularity, and maintainability. It provides a strong foundation for building a production-ready healthcare system.
