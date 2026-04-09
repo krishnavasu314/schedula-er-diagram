@@ -32,11 +32,6 @@ It acts as the **transactional hub**, connecting all major components:
 * User (who books)
 * Patient (who receives treatment)
 * Doctor (who provides consultation)
-* Payment
-* Medical Record
-* Chat
-* Feedback
-* Notifications
 
 This ensures that all interactions are organized around a single consultation event.
 
@@ -122,38 +117,7 @@ Stores consultation details.
 
 ---
 
-### 💬 ChatMessage
 
-Supports communication between doctor and patient.
-
-* One appointment → many messages
-
----
-
-### ⭐ Feedback
-
-Stores user ratings after consultation.
-
-* Doctor rating
-* Clinic rating
-* Waiting time
-* Comments
-
----
-
-### 🔔 Notification
-
-Handles reminders and alerts.
-
-* Linked to user and appointment
-
----
-
-### 🛠️ SupportTicket
-
-Handles user issues and queries.
-
-* One user → many tickets
 
 ---
 
